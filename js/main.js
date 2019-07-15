@@ -9,6 +9,10 @@
     }
   })
 
+  //funcion del efecto parallax
+
+
+
   // Preloader
   $(window).on('load', function () {
     if ($('#preloader').length) {
