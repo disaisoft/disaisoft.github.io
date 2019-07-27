@@ -209,6 +209,7 @@ div.alineacion-texto {text-align: justify}
   background-color: #0078ff;
   width: 100px;
   bottom: -12px;
+  border-radius: 10px;
 }
 
 /*------/ Box /------*/
